@@ -15,7 +15,7 @@ export default function UseCard() {
                     </h3>
                 </div>
                 <p className="opacity-40">
-                    "Eu faco produtos para a Internet"
+                    "Eu faço produtos para a Internet"
                 </p>
             </div>
             <div className="flex flex-col gap-2 w-full">
